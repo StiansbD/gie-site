@@ -1,0 +1,61 @@
+:root {
+  --navbar-background: rgba(10, 10, 10, 0.6);
+  --navbar-focus: rgba(111,16,10, 0.6);
+  --navbar-border: black;
+  --navbar-font-color: #999;
+  --navbar-font-focus-color: #911;
+  --navbar-font-active-color: #999;
+  --navbar-bouton-focus: rgb(10, 10, 10, 0.1);
+}
+
+.navbar {
+  margin: 5% 10%;
+}
+
+.navbar-default {
+  border-radius: 3px;
+}
+
+.navbar-header img {
+  weight: 120%;
+  height: 120%;
+}
+
+.navbar-form .btn-default {
+  background-color: var(--navbar-focus);
+  border-color: var(--navbar-focus);
+  color: var(--navbar-font-color);
+}
+
+.navbar-form .btn-default:hover {
+  color: var(--navbar-font-focus-color);
+  background-color: var(--navbar-bouton-focus);
+  border-color: var(--navbar-bouton-focus);
+}
+.center-block {
+  display: none;
+}
+
+
+@media (min-width: 1400px) {
+  .center-block {
+    margin-top: -7%;
+    display: block;
+  }
+}
+
+.navbar .dropdown-menu {
+  background-color: var(--navbar-background);
+}
+
+.navbar .dropdown-menu > li > a {
+  color: var(--navbar-font-color);
+}
+
+.navbar .dropdown-menu > li > a:hover {
+  background-color: var(--navbar-focus);
+}
+
+.navbar .dropdown-menu .divider {
+  background-color: var(--navbar-border);
+}
