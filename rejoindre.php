@@ -75,7 +75,11 @@
           <p>
             Et il te faudra aussi faire la demande via ce formulaire à envoyer dans la partie <b>#Recrutement</b> sur Discord.
             <!--insérer le template de recrutement -->
-            <pre><code>
+            <div class="text-right">
+              <button class="btn  btn-danger" data-clipboard-target="#to-copy-1"><i class="fas fa-copy"></i> Copier</button>
+              <br><br>
+            </div>
+            <pre><code id="to-copy-1">
 PSEUDO :
 AGE:
 Nombres d'heures sur ARMA III :

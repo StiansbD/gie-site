@@ -22,7 +22,12 @@
             <br>
             <details>
               <summary style="cursor: pointer;" style="cursor: pointer;">code</summary>
-              <pre><code>
+              <div class="text-right">
+                <button class="btn  btn-danger" data-clipboard-target="#to-copy-1"><i class="fas fa-copy"></i> Copier</button>
+                <br><br>
+              </div>
+              <pre>
+              <code id="to-copy-1">
 [] execVM "bombManual.sqf";
               </code></pre>
             </details>
@@ -32,7 +37,12 @@
             <samp>bombManual.sqf</samp>, insérez le code suivant :
             <details>
               <summary style="cursor: pointer;">code</summary>
-              <pre><code>
+              <div class="text-right">
+                <button class="btn  btn-danger" data-clipboard-target="#to-copy-2"><i class="fas fa-copy"></i> Copier</button>
+                <br><br>
+              </div>
+              <pre>
+              <code id="to-copy-2">
 if !(hasInterface) exitWith {};
 waituntil {alive player};
 
@@ -212,9 +222,7 @@ player createDiaryRecord ["bombManual", ["General","&lt;font color='#add118' siz
 &lt;br/&gt;
 &lt;br/&gt;&gt;&lt;font color='#add118' size=20&gt;Numero de serie&lt;/font&gt;Numero de serie
 
-&lt;br/&gt;Chaque bombe a son propre numero de serie unique imprime sur le devant. Faites attention au numero de serie car il affectera la methode de desarmement de la bombe."]];
-
-              </code></pre>
+&lt;br/&gt;Chaque bombe a son propre numero de serie unique imprime sur le devant. Faites attention au numero de serie car il affectera la methode de desarmement de la bombe."]];</code></pre>
             </details>
           </p>
           <p>
