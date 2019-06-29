@@ -62,7 +62,7 @@
                   <h2 class="media-heading">Alpha</h2>
                   <p>
                     Alpha est la composante d’unité d’Aviation du GIE.<br>
-                    Instructeur : <a href="#">Seemann</a>
+                    <i class="fas fa-address-card"></i> Instructeur : <a href="#">Seemann</a>
                   </p>
                   <p>
                     <div class="btn-group" role="group" aria-label="...">
@@ -94,7 +94,7 @@
                   <h2 class="media-heading">Bravo</h2>
                   <p>
                     Bravo  est la composante d’unité Blindés du GIE.<br>
-                    Instructeur : <a href="#">Madness</a>
+                    <i class="fas fa-address-card"></i> Instructeur : <a href="#">Madness</a>
                   </p>
                   <p>
                     <div class="btn-group" role="group" aria-label="...">
@@ -128,7 +128,7 @@
                   <h2 class="media-heading">Charlie</h2>
                   <p>
                     Charlie est la composante d’unité Commune d’infanterie du GIE.<br>
-                    Instructeurs : <a href="#">Morbakos</a>, <a href="#">Kaddosh</a>, <a href="#">Ledoc</a>, <a href="#">Pippermint</a>
+                    <i class="fas fa-address-card"></i> Instructeurs : <a href="#">Morbakos</a>, <a href="#">Kaddosh</a>, <a href="#">Ledoc</a>, <a href="#">Pippermint</a>
                   </p>
                   <p>
                     <div class="btn-group" role="group" aria-label="...">
@@ -168,7 +168,7 @@
                   <h2 class="media-heading">Hotel</h2>
                   <p>
                     Hotel est la composante d’unité Héliporté du GIE.<br>
-                    Instructeur : <a href="#"></a>
+                    <i class="fas fa-address-card"></i> Instructeur : <a href="#"></a>
                   </p>
                   <p>
                     <div class="btn-group" role="group" aria-label="...">
@@ -200,7 +200,7 @@
                   <h2 class="media-heading">November</h2>
                   <p>
                     November est la composante d’unité Nageurs du GIE.<br>
-                    Instructeurs : <a href="#">Ledoc</a>
+                    <i class="fas fa-address-card"></i> Instructeurs : <a href="#">Ledoc</a>
                   </p>
                   <p>
                     <div class="btn-group" role="group" aria-label="...">
@@ -234,7 +234,7 @@
                   <h2 class="media-heading">Roméo</h2>
                   <p>
                     Roméo est la composante d’unité de Reconnaissance du GIE.<br>
-                    Instructeurs : <a href="#">Kaddosh</a>
+                    <i class="fas fa-address-card"></i> Instructeurs : <a href="#">Kaddosh</a>
                   </p>
                   <p>
                     <div class="btn-group" role="group" aria-label="...">
@@ -268,7 +268,7 @@
                   <h2 class="media-heading">Sierra</h2>
                   <p>
                     Sierra est la composante d’unité de Sniper du GIE.<br>
-                    Instructeurs : <a href="#">Morbakos</a>
+                    <i class="fas fa-address-card"></i> Instructeurs : <a href="#">Morbakos</a>
                   </p>
                   <p>
                     <div class="btn-group" role="group" aria-label="...">

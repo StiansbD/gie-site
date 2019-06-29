@@ -1567,11 +1567,11 @@ pre {
   margin: 0 0 10px;
   font-size: 13px;
   line-height: 1.42857143;
-  color: #333;
+  color: #ccc;
   word-break: break-all;
   word-wrap: break-word;
-  background-color: #f5f5f5;
-  border: 1px solid #ccc;
+  background-color: #333;
+  border: 1px solid #333;
   border-radius: 4px;
 }
 pre code {

@@ -26,13 +26,13 @@
         <li <?php if ($page == "6") {echo 'class="active"';} ?>><a href="/rejoindre">Rejoindre</a></li>
         <li <?php if ($page == "7") {echo 'class="active"';} ?>><a href="/info">A propos</a></li>
         <li <?php if ($page == "8") {echo 'class="active"';} ?>><a href="/contact">Contact</a></li>
-        <!--
+        <!---->
           <form class="navbar-form navbar-left">
             <button type="submit" class="btn btn-default"><i class="fas fa-sign-in-alt"></i> Login</button>
           </form>
-        -->
+        <!---->
         <!--
-        -->
+
         <li <?php if ($page == "9") {echo 'class="active dropdown"';} else {echo 'class="dropdown"';}?>>
           <a href="/profil" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Stians <span class="caret"></span></a>
           <ul class="dropdown-menu">
@@ -43,11 +43,11 @@
             <li><a href="{!! route('logout') !!}"><i class="fas fa-sign-out-alt"></i> Déconnexion</a></li>
           </ul>
         </li>
-        <!--
+        
         -->
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
   </div>
-  <a href="/"><img class="center-block" alt="Logo du GIE" src="img/navbar-logo.png"></a>
+  <img class="center-block" alt="Logo du GIE" src="img/navbar-logo.png"></a>
 </nav>

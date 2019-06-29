@@ -9,6 +9,8 @@
   --body-border: var(--navbar-border);
   --body-dropdown-background: rgba(30, 30, 30, 1);
   --body-dropdown-background-transparent: rgba(45, 45, 45, 1);
+  --body-code-background: ;
+  --body-code-font-color: ;
 }
 
 html, body {
