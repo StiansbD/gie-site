@@ -35,9 +35,17 @@
                   <a href="#"><i class="fab fa-2x fa-youtube"></i></a>
                   <a href="https://www.facebook.com/GieMilsim/"><i class="fab fa-2x fa-facebook-square"></i></a>
                 </div>
-                <p><small>Site 2019 du GIE by
-                Morbakos, Jack Smith, et Stians.</small></p>
+                <p>
+                  <small>Site 2019 du GIE by Morbakos, Jack Smith, et Stians.</small>
+                </p>
             </div>
         </div>
+        <!-- Message à mettre de Bohemia -->
+        <p class="text-center">
+          <small style="font-size: 12px;">This website is not affiliated or authorized
+            by Bohemia Interactive a.s. Bohemia Interactive, ARMA, DAYZ and all
+            associated logos and designs are trademarks or registered trademarks of
+            Bohemia Interactive a.s.</small>
+        </p>
     </div>
 </footer>

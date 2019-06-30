@@ -18,7 +18,7 @@
           <p>
             Merci à Commandos Parachutistes Arma.
             <div class="embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" allow="autoplay;" src="https://www.youtube.com/embed/vqgL7qMQguM?rel=0&autoplay=1"></iframe>
+              <iframe class="embed-responsive-item" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed/vqgL7qMQguM?rel=0&autoplay=1"></iframe>
             </div>
           </p>
         </div>

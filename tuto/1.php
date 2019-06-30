@@ -236,6 +236,8 @@ player createDiaryRecord ["bombManual", ["General","&lt;font color='#add118' siz
           <p>
             Tadaa ! Si vous ne vous êtes pas trompé, vous aurez un joli petit onglet <i>"Manuel du démineur"</i> sur votre carte <i class="fas fa-smile text-warning"></i>
           </p>
+          <br>
+          <a href="/tutos"><button class="btn  btn-danger"><i class="fas fa-undo"></i> Retour</button></a>
         </div>
       </div>
     </div>

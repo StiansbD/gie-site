@@ -132,7 +132,7 @@
             Pour ceux qui préfère en vidéo.<br>
             Merci à Commandos Parachutistes Arma.
             <div class="embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" allow="autoplay;" src="https://www.youtube.com/embed/bpEqXL0BolI"></iframe>
+              <iframe class="embed-responsive-item" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed/bpEqXL0BolI"></iframe>
             </div>
           </p>
         </div>
