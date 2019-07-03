@@ -134,6 +134,8 @@
             <div class="embed-responsive embed-responsive-16by9">
               <iframe class="embed-responsive-item" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed/bpEqXL0BolI"></iframe>
             </div>
+            <br>
+            <a href="/stuff#others"><button class="btn btn-danger"><i class="fas fa-undo"></i> Retour</button></a>
           </p>
         </div>
       </div>

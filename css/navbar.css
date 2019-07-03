@@ -1,10 +1,12 @@
 :root {
-  --navbar-background: rgba(10, 10, 10, 0.6);
+  --navbar-background: var(--body-background);
   --navbar-focus: rgba(111,16,10, 0.6);
-  --navbar-border: black;
-  --navbar-font-color: #999;
-  --navbar-font-focus-color: #911;
+  --navbar-border: var(--body-border);
+  --navbar-font-color: var(--body-font-color);
+  --navbar-font-focus-color: var(--body-font-focus-color);
   --navbar-font-active-color: #999;
+  --navbar-button-color: var(--body-button-color);
+  --navbar-button-hover-color: var(--body-button-hover-color);
   --navbar-bouton-focus: rgb(10, 10, 10, 0.1);
 }
 
@@ -22,15 +24,15 @@
 }
 
 .navbar-form .btn-default {
-  background-color: var(--navbar-focus);
-  border-color: var(--navbar-focus);
+  background-color: var(--navbar-button-color);
+  border-color: var(--navbar-button-color);
   color: var(--navbar-font-color);
 }
 
 .navbar-form .btn-default:hover {
-  color: var(--navbar-font-focus-color);
-  background-color: var(--navbar-bouton-focus);
-  border-color: var(--navbar-bouton-focus);
+  color: #fff;
+  background-color: var(--navbar-button-hover-color);
+  border-color: var(--navbar-button-hover-color);
 }
 .center-block {
   display: none;
@@ -40,6 +42,13 @@
 @media (min-width: 1400px) {
   .center-block {
     margin-top: -7%;
+    display: block;
+  }
+}
+
+@media (min-width: 1900px) {
+  .center-block {
+    margin-top: -6%;
     display: block;
   }
 }

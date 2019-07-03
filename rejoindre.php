@@ -40,7 +40,7 @@
             <b><a href="ts3server://ts3.Polygames.net?password=alphatest">TeamSpeak</a></b> <i class="fab fa-teamspeak"></i> ts.polygames.net <i class="fas fa-key"></i> mot de passe: alphatest
           </p>
           <p>
-            <b><a href="/rules">Cependant tous devront respecter et appliquer les règles du GIE</a></b>
+            <b><a class="link" href="/rules">Cependant tous devront respecter et appliquer les règles du GIE</a></b>
           </p>
           <p>
             <b>Pour tout renseignements supplémentaires ou demande un channel #FAQ est mis à votre disposition sur le Discord</b>
@@ -60,7 +60,7 @@
             </ul>
           </p>
           <p>
-            <i>Note: (<a href="/formations">N'hésite pas à consulter les fiches formations pour accélérer ta formation</a>)</i>
+            <i>Note: (<a class="link" href="/formation">N'hésite pas à consulter les fiches formations pour accélérer ta formation</a>)</i>
           </p>
         </div>
       </div>

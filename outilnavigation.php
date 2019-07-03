@@ -21,6 +21,8 @@
               <iframe class="embed-responsive-item" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed/vqgL7qMQguM?rel=0&autoplay=1"></iframe>
             </div>
           </p>
+          <br>
+          <a href="/stuff#others"><button class="btn  btn-danger"><i class="fas fa-undo"></i> Retour</button></a>
         </div>
       </div>
     </div>

@@ -18,7 +18,7 @@
           </div>
           <p>
             Il est de votre responsabilité de <b>tester les mods ET la connexion au serveur avant la mission</b>.
-            Si vous avez besoin d'aide, rendez-vous sur le <a href="https://discordapp.com/invite/AmWBzqV">Discord</a>
+            Si vous avez besoin d'aide, rendez-vous sur le <a class="link" href="https://discordapp.com/invite/AmWBzqV">Discord</a>
             ou sur le TeamSpeak dans le channel <i>"Besoin d'aide Arma3"</i>.
           </p>
         </div>

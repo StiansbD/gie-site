@@ -24,14 +24,14 @@
             <h1 class="text-center">Le GIE est une Team Milsim Arma3</h1>
           </div>
           <p>
-            Le GIE est un groupe d'une <a href="/team">douzaine de joueurs</a> allant de 20 à 50 ans et plus, se réunissant
+            Le GIE est un groupe d'une <a class="link" href="/team">douzaine de joueurs</a> allant de 20 à 50 ans et plus, se réunissant
             au moins une foirs par semaine (le mercredi de 20h30 à 23h / 0h) pour jouer ensemble en immersion sur des
             scénarios militaires.
           </p>
           <p>
             Nos missions s'effectuent sur un serveur dédié, financié par nos membres. Elles requièrent un modset slectionné
-            et upload via <a href="/modset">ArmA3Sync</a> ainsi qu'une <a href="/formations">formation de base</a> et le respect de
-            <a href="/rules">nos règles</a>.
+            et upload via <a class="link" href="/modset">ArmA3Sync</a> ainsi qu'une <a class="link" href="/formations">formation de base</a> et le respect de
+            <a class="link" href="/rules">nos règles</a>.
           </p>
           <br>
           <p>
@@ -47,7 +47,7 @@
             d'infanterie.
           </p>
           <p>
-            Le GIE possède quelques sections de <a href="/composantes">composantes spécifiques</a> <i>(Nageur, Pilote, Tireur d'élite, etc...)</i>
+            Le GIE possède quelques sections de <a class="link" href="/composantes">composantes spécifiques</a> <i>(Nageur, Pilote, Tireur d'élite, etc...)</i>
             qui demandent un apprentissage plus approfondi et une formation plus poussée.
           </p>
           <p>
@@ -56,7 +56,7 @@
             à la détente de la coop.
           </p>
           <p>
-            Le GIE <a href="/rejoindre">recrute</a>, <a href="/contact">contactez-nous</a>.
+            Le GIE <a class="link" href="/rejoindre">recrute</a>, <a class="link" href="/contact">contactez-nous</a>.
           </p>
         </div>
       </div>

@@ -36,6 +36,9 @@
             </div>
           </p>
         </div>
+        <div class="panel-body">
+          <a href="/stuff#others"><button class="btn btn-danger"><i class="fas fa-undo"></i> Retour</button></a>
+        </div>
       </div>
     </div>
 

@@ -68,7 +68,7 @@
                 <p>
                   Sur ArmA3Sync, rendez-vous dans l'onglet <b>Addon Options</b>
                   <ol>
-                    <li>Cliquez sur le <i class="fas fa-plus text-primary"></i> bleu à droite</li>
+                    <li>Cliquez sur le <i class="fas fa-plus" style="color: blue;"></i> bleu à droite</li>
                     <li>Sélectionnez le chemin vers le dossier "Mods_GIE"</li>
                   </ol>
                 </p>
@@ -89,7 +89,7 @@
                 <p>
                   Rendez-vous dans l'onglet <b>Repositories</b>
                   <ol>
-                    <li>Utilisez la colonne de droite et cliquez sur le <i class="fas fa-plus text-primary"></i> bleu</li>
+                    <li>Utilisez la colonne de droite et cliquez sur le <i class="fas fa-plus" style="color: blue;"></i> bleu</li>
                     <li>Remplissez les informations comme suit :</li>
                   </ol>
                   <br>

@@ -5,7 +5,6 @@
     <?php include("includes/style.php") ?>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title></title>
   </head>
   <body>
     <?php include("includes/navbar.php") ?>
@@ -28,39 +27,39 @@
               </div>
               <ul class="list-group">
                 <li class="list-group-item">
-                  <span class="badge"><i class="fas fa-check"></i></span>
+                  <span class="badge"><i class="fas fa-check text-success"></i></span>
                   Déplacement <span class="label label-default">20'</span>
                 </li>
                 <li class="list-group-item">
-                  <span class="badge"><i class="fas fa-check"></i></span>
+                  <span class="badge"><i class="fas fa-check text-success"></i></span>
                   Leader <span class="label label-default">20'</span>
                 </li>
                 <li class="list-group-item">
-                  <span class="badge"><i class="fas fa-check"></i></span>
+                  <span class="badge"><i class="fas fa-check text-success"></i></span>
                   Communication <span class="label label-default">20'</span>
                 </li>
                 <li class="list-group-item">
-                  <span class="badge"><i class="fas fa-check"></i></span>
+                  <span class="badge"><i class="fas fa-check text-success"></i></span>
                   Radio <span class="label label-default">20'</span>
                 </li>
                 <li class="list-group-item">
-                  <span class="badge"><i class="fas fa-check"></i></span>
+                  <span class="badge"><i class="fas fa-check text-success"></i></span>
                   Navigation <span class="label label-default">20'</span>
                 </li>
                 <li class="list-group-item">
-                  <span class="badge"><i class="fas fa-check"></i></span>
+                  <span class="badge"><i class="fas fa-check text-success"></i></span>
                   Combat <span class="label label-default">20'</span>
                 </li>
                 <li class="list-group-item">
-                  <span class="badge"><i class="fas fa-check"></i></span>
+                  <span class="badge"><i class="fas fa-check text-success"></i></span>
                   Médical <span class="label label-default">20'</span>
                 </li>
                 <li class="list-group-item">
-                  <span class="badge"><i class="fas fa-check"></i></span>
+                  <span class="badge"><i class="fas fa-check text-success"></i></span>
                   Véhicules <span class="label label-default">20'</span>
                 </li>
                 <li class="list-group-item">
-                  <span class="badge"><i class="fas fa-check"></i></span>
+                  <span class="badge"><i class="fas fa-check text-success"></i></span>
                   Materiel <span class="label label-default">20'</span>
                 </li>
               </ul>
@@ -118,11 +117,11 @@
               </div>
               <ul class="list-group">
                 <li class="list-group-item">
-                  <span class="badge"><i class="fas fa-check"></i></span>
+                  <span class="badge"><i class="fas fa-check text-success"></i></span>
                   Partie theorique
                 </li>
                 <li class="list-group-item">
-                  <span class="badge"><i class="fas fa-check"></i></span>
+                  <span class="badge"><i class="fas fa-check text-success"></i></span>
                   Partie pratique
                 </li>
               </ul>
@@ -160,61 +159,79 @@
           </div>
         </div>
       </div>
-      <div class="panel panel-default">
+      <div class="panel panel-default" id="modules">
         <div class="panel-body">
           <div class="page-header">
             <h1 class="text-left">Formations Modules</h1>
           </div>
           <div class="row">
-            <div class="col-sm-4 col-md-4">
-              <div class="thumbnail">
-                <h2 class="text-center text-success"><img src="img/formations/modules/medic-v.png" alt="Icone du module Médic."> Médic <small><span class="label label-default">40'</span></small></h2>
+            <a href="/formations/medic">
+              <div class="col-sm-4 col-md-4">
+                <div class="thumbnail">
+                  <h2 class="text-center text-success"><img src="img/formations/modules/medic-v.png" alt="Icone du module Médic."> Médic <small><span class="label label-default">40'</span></small></h2>
+                </div>
               </div>
-            </div>
-            <div class="col-sm-4 col-md-4">
-              <div class="thumbnail">
-                  <h2 class="text-center text-success"><img src="img/formations/modules/lead-v.png" alt="Icone du module Lead."> Lead <small><span class="label label-default">40'</span></small></h2>
+            </a>
+            <a href="/formations/leader">
+              <div class="col-sm-4 col-md-4">
+                <div class="thumbnail">
+                    <h2 class="text-center text-success"><img src="img/formations/modules/lead-v.png" alt="Icone du module Lead."> Lead <small><span class="label label-default">40'</span></small></h2>
+                </div>
               </div>
-            </div>
-            <div class="col-sm-4 col-md-4">
-              <div class="thumbnail">
-                <h2 class="text-center text-success"><img src="img/formations/modules/OPR-v.png" alt="Icone du module OPR."> OPR <small><span class="label label-default">40'</span></small></h2>
+            </a>
+            <a href="/formations/opr">
+              <div class="col-sm-4 col-md-4">
+                <div class="thumbnail">
+                  <h2 class="text-center text-success"><img src="img/formations/modules/OPR-v.png" alt="Icone du module OPR."> OPR <small><span class="label label-default">40'</span></small></h2>
+                </div>
               </div>
-            </div>
+            </a>
           </div>
           <div class="row">
-            <div class="col-sm-4 col-md-4">
-              <div class="thumbnail">
-                <h2 class="text-center"><img src="img/formations/modules/TP.png" alt="Icone du module TP."> TP <small><span class="label label-default">40'</span></small></h2>
+            <a href="/formations/TP">
+              <div class="col-sm-4 col-md-4">
+                <div class="thumbnail">
+                  <h2 class="text-center"><img src="img/formations/modules/TP.png" alt="Icone du module TP."> TP <small><span class="label label-default">40'</span></small></h2>
+                </div>
               </div>
-            </div>
-            <div class="col-sm-4 col-md-4">
-              <div class="thumbnail">
-                <h2 class="text-center text-success"><img src="img/formations/modules/MG-v.png" alt="Icone du module MG."> MG <small><span class="label label-default">40'</span></small></h2>
+            </a>
+            <a href="/formations/MG">
+              <div class="col-sm-4 col-md-4">
+                <div class="thumbnail">
+                  <h2 class="text-center text-success"><img src="img/formations/modules/MG-v.png" alt="Icone du module MG."> MG <small><span class="label label-default">40'</span></small></h2>
+                </div>
               </div>
-            </div>
-            <div class="col-sm-4 col-md-4">
-              <div class="thumbnail">
-                <h2 class="text-center text-success"><img src="img/formations/modules/AT_AA-v.png" alt="Icone du module AT / AA."> AT / AA <small><span class="label label-default">40'</span></small></h2>
+            </a>
+            <a href="/formations/AT">
+              <div class="col-sm-4 col-md-4">
+                <div class="thumbnail">
+                  <h2 class="text-center text-success"><img src="img/formations/modules/AT_AA-v.png" alt="Icone du module AT / AA."> AT / AA <small><span class="label label-default">40'</span></small></h2>
+                </div>
               </div>
-            </div>
+            </a>
           </div>
           <div class="row">
-            <div class="col-sm-4 col-md-4">
-              <div class="thumbnail">
-                <h2 class="text-center text-success"><img src="img/formations/modules/GL-v.png" alt="Icone du module GL."> GL <small><span class="label label-default">40'</span></small></h2>
+            <a href="/formations/GL">
+              <div class="col-sm-4 col-md-4">
+                <div class="thumbnail">
+                  <h2 class="text-center text-success"><img src="img/formations/modules/GL-v.png" alt="Icone du module GL."> GL <small><span class="label label-default">40'</span></small></h2>
+                </div>
               </div>
-            </div>
-            <div class="col-sm-4 col-md-4">
-              <div class="thumbnail">
-                <h2 class="text-center text-success"><img src="img/formations/modules/delta-v.png" alt="Icone du module Delta."> Delta <small><span class="label label-default">40'</span></small></h2>
+            </a>
+            <a href="/formations/delta">
+              <div class="col-sm-4 col-md-4">
+                <div class="thumbnail">
+                  <h2 class="text-center text-success"><img src="img/formations/modules/delta-v.png" alt="Icone du module Delta."> Delta <small><span class="label label-default">40'</span></small></h2>
+                </div>
               </div>
-            </div>
-            <div class="col-sm-4 col-md-4">
-              <div class="thumbnail">
-                <h2 class="text-center text-success"><img src="img/formations/modules/conducteur-v.png" alt="Icone du module Conducteur."> Conducteur <small><span class="label label-default">40'</span></small></h2>
+            </a>
+            <a href="/formations/conducteur">
+              <div class="col-sm-4 col-md-4">
+                <div class="thumbnail">
+                  <h2 class="text-center text-success"><img src="img/formations/modules/conducteur-v.png" alt="Icone du module Conducteur."> Conducteur <small><span class="label label-default">40'</span></small></h2>
+                </div>
               </div>
-            </div>
+            </a>
           </div>
 
             <!---->
